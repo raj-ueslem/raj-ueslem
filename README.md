@@ -1,4 +1,4 @@
-### Olá, eu sou o Ueslem mas sou mais conhecido como Raj 👋
+### Olá, eu sou o Ueslem 👋
 
 - 🎓 Estou cursando Atualmente Analise e Desenvolvimento de Sistemas.
 - 💻 Atualmente sou desenvolvedor flutter na +A Educação/Grupo A.
